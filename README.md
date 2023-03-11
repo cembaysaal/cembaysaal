@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/cembaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cembaysal" height="30" width="40" /></a>
 <a href="https://instagram.com/cembaysaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cembaysaal" height="30" width="40" /></a>
-<a href="mailto:baysalc@mef.edu.tr" target="_blank" rel="nofollow"><img alt="Cem's Mail Address" src=["[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://cdn-icons-png.flaticon.com/512/281/281769.png)"](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631) /></a>
+<a href="mailto:baysalc@mef.edu.tr" target="_blank" rel="nofollow"><img alt="Cem's Mail Address" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
