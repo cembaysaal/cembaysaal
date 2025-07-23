@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Cem Baysal and I'm a Junior iOS Developer, from Turkey!</h2>
+<h2 align="left">Hi 👋 My name is Cem Baysal and I'm an iOS Developer, from Turkey!</h2>
 
 ###
 
